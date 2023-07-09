@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceOperation.Ex.Domain", "InvoiceOperation.Ex.Domain\InvoiceOperation.Ex.Domain.csproj", "{2BC78F38-D9E9-4771-99C9-3D20995A85FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceOperation.Ex.ConsoleUI", "InvoiceOperation.Ex.ConsoleUI\InvoiceOperation.Ex.ConsoleUI.csproj", "{7B7DDA0C-391C-4CAB-A1CD-D60FC97B7156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BC78F38-D9E9-4771-99C9-3D20995A85FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC78F38-D9E9-4771-99C9-3D20995A85FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC78F38-D9E9-4771-99C9-3D20995A85FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC78F38-D9E9-4771-99C9-3D20995A85FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B7DDA0C-391C-4CAB-A1CD-D60FC97B7156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7DDA0C-391C-4CAB-A1CD-D60FC97B7156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7DDA0C-391C-4CAB-A1CD-D60FC97B7156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7DDA0C-391C-4CAB-A1CD-D60FC97B7156}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ADCB76D-C241-49BC-8EDA-A9C9B69CFD8D}
+	EndGlobalSection
+EndGlobal
